@@ -19,7 +19,7 @@ const About: React.FC = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <img src="https://images.unsplash.com/photo-1581092921461-39b21c63f12b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Professional electrician at work" className="rounded-lg shadow-lg w-full h-auto object-cover" />
+              <img src="/src/img/pro.jpg" alt="Professional electrician at work" className="rounded-lg shadow-lg w-full h-auto object-cover" />
             </div>
             <div>
               <h2 className="text-2xl font-bold text-gray-900 mb-6">
