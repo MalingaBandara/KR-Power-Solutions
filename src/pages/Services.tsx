@@ -117,7 +117,7 @@ const Services: React.FC = () => {
             </div>
             <div className="flex items-center">
               <PhoneIcon className="mr-2" size={20} />
-              <span className="text-xl font-semibold mr-4">+94 XXXXXXXX</span>
+              <span className="text-xl font-semibold mr-4">+94 11 2342 567</span>
               <Button href="/contact" variant="outline" className="text-white border-white hover:bg-blue-800">
                 Contact Us
               </Button>

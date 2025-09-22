@@ -126,8 +126,8 @@ const Contact: React.FC = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-700">+94 XXXXXXXX</p>
-                    <p className="text-gray-700">+94 XXXXXXXX (WhatsApp)</p>
+                    <p className="text-gray-700">+94 11 2342 567</p>
+                    <p className="text-gray-700">+94 74 1632 621 (WhatsApp)</p>
                   </div>
                 </div>
                 <div className="flex items-start mb-6">
@@ -192,7 +192,7 @@ const Contact: React.FC = () => {
           </h2>
           <div className="bg-gray-200 rounded-lg overflow-hidden h-64 md:h-96">
             {/* Placeholder for map or coverage area image */}
-            <img src="https://images.unsplash.com/photo-1576615278693-f8e095e37e01?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="Sri Lanka Map" className="w-full h-full object-cover" />
+            <img src="/src/img/covermpng.png" alt="Sri Lanka Map" className="w-full h-full object-cover" />
           </div>
           <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
             We provide services throughout Sri Lanka, with special focus on

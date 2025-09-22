@@ -26,13 +26,13 @@ const Portfolio: React.FC = () => {
     title: 'Industrial HT Installation',
     category: 'High Tension',
     description: 'High tension electrical system installation for a manufacturing facility, including transformer setup and safety systems.',
-    imageUrl: 'https://images.unsplash.com/photo-1523381294911-8d3cead13475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'
+    imageUrl: 'https://tse3.mm.bing.net/th/id/OIP.PNauOaut5Imp7x9kIhkOZgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3'
   }, {
     id: 5,
     title: 'Retail Space CCTV System',
     category: 'CCTV',
     description: 'Comprehensive CCTV surveillance system installation for a retail space, with 24 cameras and central monitoring station.',
-    imageUrl: 'https://images.unsplash.com/photo-1557183642-c8a505be9cd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'
+    imageUrl: 'https://assets.siccode.com/i-s-b/sic-code-7382-security-systems-services.jpg'
   }, {
     id: 6,
     title: 'Luxury Home Wiring',
